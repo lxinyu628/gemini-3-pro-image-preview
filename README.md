@@ -1,16 +1,3 @@
-## 版本更新
-- 新增iOS应用端存储到相册功能，点击下载 到新页面长按保存图片
-<img width="664" height="1036" alt="image" src="https://github.com/user-attachments/assets/b56df154-c3d1-4e99-a043-c986c0b74d1a" />
-
-- 优化小红书提示词，出图更好看
-<img width="3154" height="1684" alt="image" src="https://github.com/user-attachments/assets/cf67cbbb-3dd7-4ea8-9a43-b06658510383" />
-
-- 增加流式接收
-<img width="650" height="406" alt="image" src="https://github.com/user-attachments/assets/b4164844-6183-4202-a55a-7784ee9a42a3" />
-
-- 细节优化 可以单纯文字输出 文字图片一同输出
-
-<div align="center">
 # Gemini 3 Pro Image Preview
 
 <div align="center">
@@ -21,12 +8,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
-
 **🎨 强大的 Gemini 3 Pro 图像生成工作台**
 
 [在线演示](#) | [快速开始](#快速开始) | [功能特性](#功能特性) | [贡献指南](#贡献指南)
 
+</div>
 
 ---
 
